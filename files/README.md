@@ -28,10 +28,10 @@ Users should be able to:
 
 ### Screenshot
 
-# Design Mobile
+### Design Mobile
 ![](../images/screenshot-mobile.png)
 
-# Design Desktop
+### Design Desktop
 ![](../images/screentshot-desktop.png)
 
 
