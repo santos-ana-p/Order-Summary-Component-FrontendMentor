@@ -32,7 +32,7 @@ Users should be able to:
 ![](../images/screenshot-mobile.png)
 
 # Design Desktop
-![](../images/screenshot-desktop.jpg)
+![](../images/screentshot-desktop.png)
 
 
 
