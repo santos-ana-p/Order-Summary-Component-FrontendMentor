@@ -21,13 +21,13 @@ body{
    box-sizing: border-box;
    font-family: 'Red Hat Display', sans-serif;
    font-size: 16px;
-   
+   height: 700px;
 }
 
 main{
    background-color: var(--white);
    display: block;
-   margin: 5em 1em;
+   margin: 8em 1em;
    
 }
 
